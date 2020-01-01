@@ -1,7 +1,7 @@
 # ecommerce
 
 …or create a new repository on the command line
-echo "# azure" >> README.md
+<p> echo "# azure" >> README.md <p>
 git init
 git add README.md
 git commit -m "first commit"
