@@ -1,6 +1,6 @@
 # ecommerce
 
-…or create a new repository on the command line
+<p>  …or create a new repository on the command line <p> 
 <p> echo "# azure" >> README.md </p>
 <p> git init <p> 
 <p> git add README.md <p> 
